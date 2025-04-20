@@ -2,7 +2,7 @@
 This is an instruction to reproduce the work done in “Machine Learning Enhanced Urban Analysis for Forecasting Morphogenesis and Housing Allocation in Rapidly Developing Cities.”
 
 1- The images folder contains the preprocessed binary maps, as described in the manuscript. The original dataset can be downloaded from:
-https://human‑settlement.emergency.copernicus.eu/download.php?ds=bu
+https://human-settlement.emergency.copernicus.eu/ghs_buS2023.php
 
 2- To visualize these images, you can either use Python (e.g., Matplotlib) or GIS software such as QGIS or ArcGIS.
 
